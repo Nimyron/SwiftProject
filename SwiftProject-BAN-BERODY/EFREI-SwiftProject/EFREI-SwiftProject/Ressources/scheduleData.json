@@ -1,0 +1,272 @@
+[
+  {
+    "Activity": "Breakfast",
+    "Type": "Meal",
+    "Start": "15/11/2019 8:00am",
+    "End": "15/11/2019 9:00am",
+    "Notes": "",
+    "Location": "President's dining hall",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Opening remarks (Friday)",
+    "Type": "Keynote",
+    "Start": "15/11/2019 9:00am",
+    "End": "15/11/2019 9:25am",
+    "Notes": "Katina is subbing in for Russell, because he's coming in on a flight",
+    "Location": "Grand ballroom",
+    "Speaker(s)": "Katina Frey",
+    "Topic / theme": "Welcome to HomeTech 2019!"
+  },
+  {
+    "Activity": "Morning keynote (Friday)",
+    "Type": "Keynote",
+    "Start": "15/11/2019 9:30am",
+    "End": "15/11/2019 10:15am",
+    "Notes": "",
+    "Location": "Grand ballroom",
+    "Speaker(s)": "Mattheus Anderson",
+    "Topic / theme": "How technology will shape home security"
+  },
+  {
+    "Activity": "Technology in the household",
+    "Type": "Panel",
+    "Start": "15/11/2019 10:30am",
+    "End": "15/11/2019 11:20am",
+    "Notes": "",
+    "Location": "Pearl room",
+    "Speaker(s)": "Stephan Oswald",
+    "Topic / theme": "Building products for families"
+  },
+  {
+    "Activity": "Afternoon keynote (Friday)",
+    "Type": "Keynote",
+    "Start": "15/11/2019 11:00am",
+    "End": "15/11/2019 7:30pm",
+    "Notes": "",
+    "Location": "Grand ballroom",
+    "Speaker(s)": "Stephan Oswald",
+    "Topic / theme": "Home automation"
+  },
+  {
+    "Activity": "Workshop for security novices",
+    "Type": "Workshop",
+    "Start": "15/11/2019 11:30am",
+    "End": "15/11/2019 12:00pm",
+    "Notes": "",
+    "Location": "Emerald room",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Lunch (Friday)",
+    "Type": "Meal",
+    "Start": "15/11/2019 12:15pm",
+    "End": "15/11/2019 1:30pm",
+    "Notes": "We'll have vegetarian and pescatarian friendly meals available!",
+    "Location": "President's dining hall",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Security for all ages — babies, grandparents, and more!",
+    "Type": "Panel",
+    "Start": "15/11/2019 1:30pm",
+    "End": "15/11/2019 2:20pm",
+    "Notes": "Belinda's going to need a projector for her presentation",
+    "Location": "Garnet room,Jade room",
+    "Speaker(s)": "Deepa Vartak,Belinda Chen",
+    "Topic / theme": "Building products for families"
+  },
+  {
+    "Activity": "Happy hour & networking",
+    "Type": "Networking",
+    "Start": "15/11/2019 1:30pm",
+    "End": "15/11/2019 6:30pm",
+    "Notes": "Will be an open happy hour",
+    "Location": "President's dining hall",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Breakout session (Friday)",
+    "Type": "Breakout session",
+    "Start": "15/11/2019 2:30pm",
+    "End": "15/11/2019 3:20pm",
+    "Notes": "Make sure that post-its are available for everyone at the start of the session",
+    "Location": "Sapphire room",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Best practices for IoT protocols",
+    "Type": "Panel",
+    "Start": "15/11/2019 2:30pm",
+    "End": "15/11/2019 3:20am",
+    "Notes": "",
+    "Location": "Emerald room",
+    "Speaker(s)": "Gabriella Lily",
+    "Topic / theme": "Home automation"
+  },
+  {
+    "Activity": "Breakout presentation (Friday)",
+    "Type": "Breakout session",
+    "Start": "15/11/2019 3:30pm",
+    "End": "15/11/2019 3:55pm",
+    "Notes": "",
+    "Location": "Ruby room",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Case study: Home SecurTech",
+    "Type": "Panel",
+    "Start": "15/11/2019 3:30pm",
+    "End": "15/11/2019 5:20pm",
+    "Notes": "",
+    "Location": "Garnet room,Jade room",
+    "Speaker(s)": "Russell Karkarov,Belinda Chen",
+    "Topic / theme": "Building products for families"
+  },
+  {
+    "Activity": "Closing remarks (Friday)",
+    "Type": "Keynote",
+    "Start": "15/11/2019 7:00pm",
+    "End": "15/11/2019 8:00pm",
+    "Notes": "",
+    "Location": "Grand ballroom",
+    "Speaker(s)": "Katina Frey",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Opening remarks (Saturday)",
+    "Type": "Keynote",
+    "Start": "16/11/2019 9:00am",
+    "End": "16/11/2019 9:30am",
+    "Notes": "Expecting a lower turnout because it's the 2nd day",
+    "Location": "Grand ballroom",
+    "Speaker(s)": "Katina Frey",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Morning keynote (Saturday)",
+    "Type": "Keynote",
+    "Start": "16/11/2019 9:30am",
+    "End": "16/11/2019 10:20am",
+    "Notes": "",
+    "Location": "Grand ballroom",
+    "Speaker(s)": "Clara Rotelli",
+    "Topic / theme": "Community building"
+  },
+  {
+    "Activity": "How to make all your devices play nice",
+    "Type": "Panel",
+    "Start": "16/11/2019 10:30am",
+    "End": "16/11/2019 11:20am",
+    "Notes": "This session will be led by Deepa",
+    "Location": "Ruby room",
+    "Speaker(s)": "Russell Karkarov,Deepa Vartak",
+    "Topic / theme": "Home automation"
+  },
+  {
+    "Activity": "Building an alert system that works for everyone",
+    "Type": "Panel",
+    "Start": "16/11/2019 11:30am",
+    "End": "16/11/2019 12:20am",
+    "Notes": "",
+    "Location": "Sapphire room",
+    "Speaker(s)": "Belinda Chen,Bernard Casper,Clara Rotelli",
+    "Topic / theme": "Security smart hubs"
+  },
+  {
+    "Activity": "Workshop for security professionals",
+    "Type": "Workshop",
+    "Start": "16/11/2019 11:30am",
+    "End": "16/11/2019 12:00pm",
+    "Notes": "",
+    "Location": "Garnet room,Jade room",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Lunch (Saturday)",
+    "Type": "Meal",
+    "Start": "16/11/2019 12:15pm",
+    "End": "16/11/2019 1:30pm",
+    "Notes": "",
+    "Location": "President's dining hall",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Which security solution is best for you?",
+    "Type": "Panel",
+    "Start": "16/11/2019 1:30pm",
+    "End": "16/11/2019 2:20pm",
+    "Notes": "",
+    "Location": "Emerald room",
+    "Speaker(s)": "Bernard Casper,Stephan Oswald",
+    "Topic / theme": "Types of home security"
+  },
+  {
+    "Activity": "Breakout session (Saturday)",
+    "Type": "Breakout session",
+    "Start": "16/11/2019 2:30pm",
+    "End": "16/11/2019 3:30pm",
+    "Notes": "",
+    "Location": "Sapphire room",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Afternoon keynote (Saturday)",
+    "Type": "Keynote",
+    "Start": "16/11/2019 2:30pm",
+    "End": "16/11/2019 5:00pm",
+    "Notes": "",
+    "Location": "Grand ballroom",
+    "Speaker(s)": "Russell Karkarov",
+    "Topic / theme": "How technology will shape home security"
+  },
+  {
+    "Activity": "Community building workshop",
+    "Type": "Workshop",
+    "Start": "16/11/2019 2:30pm",
+    "End": "16/11/2019 4:00pm",
+    "Notes": "",
+    "Location": "Emerald room",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Building a safer community",
+    "Type": "Panel",
+    "Start": "16/11/2019 2:30pm",
+    "End": "16/11/2019 11:20am",
+    "Notes": "",
+    "Location": "Ruby room",
+    "Speaker(s)": "Katina Frey",
+    "Topic / theme": "Community building"
+  },
+  {
+    "Activity": "Breakout presentation (Saturday)",
+    "Type": "Breakout session",
+    "Start": "16/11/2019 3:30pm",
+    "End": "16/11/2019 3:55pm",
+    "Notes": "",
+    "Location": "Ruby room",
+    "Speaker(s)": "",
+    "Topic / theme": ""
+  },
+  {
+    "Activity": "Closing remarks (Saturday)",
+    "Type": "Keynote",
+    "Start": "16/11/2019 4:30pm",
+    "End": "16/11/2019 5:30pm",
+    "Notes": "",
+    "Location": "Grand ballroom",
+    "Speaker(s)": "Russell Karkarov",
+    "Topic / theme": ""
+  }
+]
